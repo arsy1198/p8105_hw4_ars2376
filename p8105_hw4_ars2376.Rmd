@@ -1,0 +1,10 @@
+---
+title: "p8105_hw4_ars2376"
+output: html_document
+date: "2025-10-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
