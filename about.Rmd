@@ -8,4 +8,38 @@ date: "2025-10-24"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### Experience
+
+**Clear30 (part-time)**
+
+Research Coordinator (Jun 2025 - Present)
+
+**Sun River Health**
+
+Strategy, Data, Assessment Intern (Jun 2025 - Aug 2025)
+
+**Partnership to End Addiction**
+
+Junior Product Manager (Aug 2023 - May 2025)
+
+Program Associate (Sep 2021 - Aug 2023)
+
+**American Public Health Association**
+
+Alliance for Disease Prevention and Response Intern (Jun 2021 - Aug 2021)
+
+### Education
+
+**Columbia University Mailman School of Public Health (2024 - 2026)**
+
+Master of Public Health - MPH, Population & Family Health
+
+Certificate in in Public Health Research Methods
+
+**Washington University in St. Louis (2017 - 2021)**
+
+Bachelor's degree, Global Health & Environment 
+
+Minors in Health Care Management & Psychology
+
 Go back to the [homepage](home.html)
