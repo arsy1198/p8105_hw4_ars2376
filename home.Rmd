@@ -1,0 +1,17 @@
+---
+title: "Welcome!"
+output: html_document
+date: "2025-10-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Hi! I'm Amanda, and this is my website.
+
+![](images/pancakes.jpeg)
+
+I'm a second year MPH Student at Columbia University Mailman School of Public Health. I'm am part of the Population & Family Health department and my certificate is in Public Health Research Methods.
+
+In the future, I'm interested in supporting and developing digital interventions and increasing accessibility to services for vulnerable communities. Besides public health and data science, I'm also interested in traveling, dancing, fashion, and my next sweet treat. Learn more about my academic and professional experience [here](about.html).

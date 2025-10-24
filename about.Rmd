@@ -8,3 +8,4 @@ date: "2025-10-24"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Go back to the [homepage](home.html)
